@@ -53,13 +53,6 @@ Commit and push your changes to your forked repository and create a pull request
 
 <!--PREVIEW_BEGIN-->
 
-### test
-
-<div>
-<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/test/0x88eec49252c8cbc039dcdb394c0c2ba2f1637ea0.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/test/0x88eec49252c8cbc039dcdb394c0c2ba2f1637ea0.webp" width="64" height="64" /></a>
-<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/test/0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/test/0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6.webp" width="64" height="64" /></a>
-</div>
-
 ### fantom
 
 <div>
