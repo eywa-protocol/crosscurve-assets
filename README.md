@@ -183,6 +183,7 @@ Commit and push your changes to your forked repository and create a pull request
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/bnb/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/bnb/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.webp" width="64" height="64" /></a>
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/bnb/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/bnb/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.webp" width="64" height="64" /></a>
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/bnb/0x55d398326f99059ff775485246999027b3197955.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/bnb/0x55d398326f99059ff775485246999027b3197955.webp" width="64" height="64" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/bnb/0x0000000000000000000000000000000000000000.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/bnb/0x0000000000000000000000000000000000000000.webp" width="64" height="64" /></a>
 </div>
 
 ### blast
@@ -216,6 +217,7 @@ Commit and push your changes to your forked repository and create a pull request
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/avalanche/0x46a51127c3ce23fb7ab1de06226147f446e4a857.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/avalanche/0x46a51127c3ce23fb7ab1de06226147f446e4a857.webp" width="64" height="64" /></a>
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/avalanche/0x152b9d0fdc40c096757f570a51e494bd4b943e50.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/avalanche/0x152b9d0fdc40c096757f570a51e494bd4b943e50.webp" width="64" height="64" /></a>
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/avalanche/0x1337bedc9d22ecbe766df105c9623922a27963ec.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/avalanche/0x1337bedc9d22ecbe766df105c9623922a27963ec.webp" width="64" height="64" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/avalanche/0x0000000000000000000000000000000000000000.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/avalanche/0x0000000000000000000000000000000000000000.webp" width="64" height="64" /></a>
 </div>
 
 ### arbitrum
