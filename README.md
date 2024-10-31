@@ -24,10 +24,6 @@ https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/{block
 
 If you want to add an icon for your token, please follow these steps to ensure everything is done correctly.
 
-#### Prerequisites
-
-Ensure that Node.js version 20 or higher is installed. This is required for running pre-commit script.
-
 #### 1. Prepare the icon
 
 - The icon should be in **jpg, jpeg, png, webp, or svg** format.
@@ -49,18 +45,9 @@ images/
           └── {token-address}.{ext} ← your icon
 ```
 
-#### 4. Commit your changes
+#### 4. Create a pull request
 
-Once you have added the icon, commit your changes. The pre-commit script will run automatically to check the file name format and compress the image if needed.
-
-```bash
-git add .
-git commit -m "Add icon for xSTABLE"
-```
-
-#### 5. Create a pull request
-
-After the commit is successful and the checks have passed, push your changes to your forked repository and create a pull request to the main repository for review.
+Commit and push your changes to your forked repository and create a pull request to the main repository for review.
 
 ## Preview
 
