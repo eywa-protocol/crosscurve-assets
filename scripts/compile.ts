@@ -69,7 +69,10 @@ const updateReadme = async () => {
     preview += `### ${blockchain}\n\n`;
     preview += `<div>\n`;
     preview += images
-      .map((url) => `<img src="${url}" width="64" height="64" />`)
+      .map(
+        (url) =>
+          `<a href="${url}"><img src="${url}" width="64" height="64" /></a>`
+      )
       .join("\n");
     preview += `\n</div>\n\n`;
   });
