@@ -3,19 +3,9 @@ import path from "path";
 import sharp from "sharp";
 import fs from "fs-extra";
 import { isAddress } from "ethers";
-import { execSync } from "child_process";
 
 const processTokens = async () => {
   console.group(`🔄 Processing tokens...`);
-
-  const stagedFiles = execSync("git diff --name-only HEAD~1 HEAD", {
-    encoding: "utf-8",
-  })
-    .split("\n")
-    .filter((file) => file.trim() !== "")
-    .map((file) => file.trim());
-
-  console.log(stagedFiles);
 
   const images = glob.sync("images/tokens/**/*.{jpg,jpeg,png,webp,svg}");
 
@@ -33,11 +23,6 @@ const processTokens = async () => {
     const { name, dir } = path.parse(imagePath);
 
     const tokenAddress = name.toLowerCase();
-
-    if (!stagedFiles.includes(imagePath)) {
-      console.log(`💤 skipped: ${tokenAddress}`);
-      continue;
-    }
 
     const newImagePath = path.join(dir, `${tokenAddress}.webp`);
 
