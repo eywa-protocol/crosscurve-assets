@@ -1,0 +1,26 @@
+{
+  "name": "crosscurve-assets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsx ./scripts/compile.ts",
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "author": "stas-fi",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^22.7.8",
+    "ethers": "^6.13.4",
+    "fs-extra": "^11.2.0",
+    "glob": "^11.0.0",
+    "husky": "^9.1.6",
+    "sharp": "^0.33.5",
+    "tsx": "^4.19.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
