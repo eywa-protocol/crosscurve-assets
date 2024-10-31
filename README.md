@@ -26,12 +26,12 @@ If you want to add an icon for your token, please follow these steps to ensure e
 
 #### Prerequisites
 
-Ensure that Node.js version 20 or higher is installed. This is required for running pre-commit checks.
+Ensure that Node.js version 20 or higher is installed. This is required for running pre-commit script.
 
 #### 1. Prepare the icon
 
 - The icon should be in **jpg, jpeg, png, webp, or svg** format.
-- The recommended size is **256x256 pixels** to ensure clarity.
+- The recommended size is **256x256 pixels**, aspect ratio should be **1:1**.
 - The file name must match your token address (case-insensitive). For example: `0x8d9241935453120825c4a95446e351fbc338527d.png`.
 
 #### 2. Fork the repository
@@ -104,4 +104,4 @@ After the commit is successful and the checks have passed, push your changes to 
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/fantom/0x0c935328a69155dd43aa57f23288d868bae440fe.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/fantom/0x0c935328a69155dd43aa57f23288d868bae440fe.webp" width="64" height="64" /></a>
 </div>
 
-<!--PREVIEW_END -->
+<!--PREVIEW_END-->

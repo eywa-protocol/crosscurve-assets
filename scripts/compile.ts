@@ -3,9 +3,16 @@ import path from "path";
 import sharp from "sharp";
 import fs from "fs-extra";
 import { isAddress } from "ethers";
+import { execSync } from "child_process";
 
 const processTokens = async () => {
-  console.group(`🔄 Compressing images...`);
+  console.group(`🔄 Processing tokens...`);
+
+  const stagedFiles = execSync("git diff --cached --name-only", {
+    encoding: "utf-8",
+  })
+    .split("\n")
+    .filter((file) => file.trim() !== "");
 
   const images = glob.sync("images/tokens/**/*.{jpg,jpeg,png,webp,svg}");
 
@@ -17,12 +24,17 @@ const processTokens = async () => {
     }
   }
 
+  let completed = 0;
+
   for (const imagePath of images) {
     const { name, dir } = path.parse(imagePath);
 
     const tokenAddress = name.toLowerCase();
 
-    console.log(`Processing token: ${tokenAddress}`);
+    if (!stagedFiles.includes(imagePath)) {
+      console.log(`💤 skipped: ${tokenAddress}`);
+      continue;
+    }
 
     const newImagePath = path.join(dir, `${tokenAddress}.webp`);
 
@@ -37,12 +49,16 @@ const processTokens = async () => {
         })
         .toFile(newImagePath);
     } catch (err: any) {
-      console.error(`Error compressing ${imagePath}`, err);
+      console.error(`🔴 error: ${tokenAddress}`, err);
     }
+
+    completed += 1;
+
+    console.log(`🟢 processed: ${tokenAddress}`);
   }
 
   console.groupEnd();
-  console.log(`✅ Images compressed`);
+  console.log(`✅ ${completed} tokens processed`);
 };
 
 const updateReadme = async () => {
@@ -51,7 +67,6 @@ const updateReadme = async () => {
   const readme = await fs.readFile("README.md", "utf-8");
 
   const images = glob.sync("images/tokens/**/*.webp");
-
   const imagesMap: Record<string, string[]> = {};
 
   images.forEach((imagePath) => {
@@ -78,8 +93,8 @@ const updateReadme = async () => {
   });
 
   const newReadme = readme.replace(
-    /<!--PREVIEW_BEGIN-->[\s\S]*?<!--PREVIEW_END -->/,
-    `<!--PREVIEW_BEGIN-->\n\n${preview}<!--PREVIEW_END -->`
+    /<!--PREVIEW_BEGIN-->[\s\S]*?<!--PREVIEW_END-->/,
+    `<!--PREVIEW_BEGIN-->\n\n${preview}<!--PREVIEW_END-->`
   );
 
   await fs.writeFile("README.md", newReadme);
