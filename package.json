@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compile": "tsx ./scripts/compile.ts",
-    "prepare": "husky"
+    "compile": "tsx ./scripts/compile.ts"
   },
   "keywords": [],
   "author": "stas-fi",
@@ -16,7 +15,6 @@
     "ethers": "^6.13.4",
     "fs-extra": "^11.2.0",
     "glob": "^11.0.0",
-    "husky": "^9.1.6",
     "sharp": "^0.33.5",
     "tsx": "^4.19.1"
   },
