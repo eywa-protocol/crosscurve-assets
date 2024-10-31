@@ -67,10 +67,11 @@ const updateReadme = async () => {
 
   Object.entries(imagesMap).forEach(([blockchain, images]) => {
     preview += `### ${blockchain}\n\n`;
+    preview += `<div>\n`;
     preview += images
       .map((url) => `<img src="${url}" width="64" height="64" />`)
       .join("\n");
-    preview += "\n\n";
+    preview += `\n</div>\n\n`;
   });
 
   const newReadme = readme.replace(

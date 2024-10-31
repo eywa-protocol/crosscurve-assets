@@ -68,6 +68,7 @@ After the commit is successful and the checks have passed, push your changes to 
 
 ### fantom
 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/fantom/0xf91eb98d5ff86718234ac0e400175a05df6cfcf1.webp" width="64" height="64" />
 <img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/fantom/0xc6cd50e6085a5f037b638813483dd244e3e4bcaa.webp" width="64" height="64" />
 <img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/fantom/0x8fd195b2ff1506c1c26091422768cc2a40285ce7.webp" width="64" height="64" />
@@ -77,5 +78,6 @@ After the commit is successful and the checks have passed, push your changes to 
 <img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/fantom/0x3c2fcf53f742345c5c1b3dcb2612a1949bc1f18d.webp" width="64" height="64" />
 <img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/fantom/0x389b72effa551ddec93cbb9259b27780f9f7a043.webp" width="64" height="64" />
 <img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/fantom/0x0c935328a69155dd43aa57f23288d868bae440fe.webp" width="64" height="64" />
+</div>
 
 <!--PREVIEW_END -->
