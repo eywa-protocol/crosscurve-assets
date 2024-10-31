@@ -23,7 +23,6 @@ const processTokens = async () => {
     const { name, dir } = path.parse(imagePath);
 
     const tokenAddress = name.toLowerCase();
-
     const newImagePath = path.join(dir, `${tokenAddress}.webp`);
 
     try {
@@ -47,6 +46,42 @@ const processTokens = async () => {
 
   console.groupEnd();
   console.log(`✅ ${completed} tokens processed`);
+};
+
+const processChains = async () => {
+  console.group(`🔄 Processing chains...`);
+
+  const images = glob.sync("images/chains/*.{jpg,jpeg,png,webp,svg}");
+
+  let completed = 0;
+
+  for (const imagePath of images) {
+    const { name, dir } = path.parse(imagePath);
+
+    const chain = name.toLowerCase();
+    const newChainPath = path.join(dir, `${chain}.webp`);
+
+    try {
+      const fileBuffer = await fs.readFile(imagePath);
+
+      await fs.remove(imagePath);
+
+      await sharp(fileBuffer)
+        .webp({
+          lossless: true,
+        })
+        .toFile(newChainPath);
+    } catch (err: any) {
+      console.error(`🔴 error: ${chain}`, err);
+    }
+
+    completed += 1;
+
+    console.log(`🟢 processed: ${chain}`);
+  }
+
+  console.groupEnd();
+  console.log(`✅ ${completed} chains processed`);
 };
 
 const updateReadme = async () => {
@@ -93,6 +128,8 @@ const updateReadme = async () => {
 
 const run = async () => {
   await processTokens();
+  console.log("");
+  await processChains();
   console.log("");
   await updateReadme();
 };
