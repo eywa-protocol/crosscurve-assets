@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256px" height="256px">
+  <defs>
+    <clipPath id="clip0_2339_2208">
+      <rect width="112.889" height="16" fill="white"/>
+    </clipPath>
+  </defs>
+  <rect width="256" height="256" style="stroke: rgb(0, 0, 0);" rx="3.322" ry="3.322" transform="matrix(0.9999999999999999, 0, 0, 0.9999999999999999, -7.105427357601002e-15, 0)"/>
+  <g clip-path="url(#clip0_2339_2208)" transform="matrix(8.647188186645508, 0, 0, 8.647188186645508, 28.084493637084954, 58.82432174682617)">
+    <g>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M 15.111 15.111 L 15.111 8 L 22.222 8 L 22.222 0.889 L 15.111 0.889 L 15.111 8 L 8 8 L 8 0.889 L 0.889 0.889 L 0.889 15.111 L 15.111 15.111 Z" fill="#9FE0C1"/>
+    </g>
+  </g>
+</svg>
