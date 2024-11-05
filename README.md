@@ -53,6 +53,15 @@ Commit and push your changes to your forked repository and create a pull request
 
 <!--PREVIEW_BEGIN-->
 
+### units
+
+<div>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/units/0xeb19000d90f17ffbd3ad9cdb8915d928f4980fd1.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/units/0xeb19000d90f17ffbd3ad9cdb8915d928f4980fd1.webp" width="64" height="64" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/units/0xb303d80db8415fd1d3c9fed68a52eeac9a052671.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/units/0xb303d80db8415fd1d3c9fed68a52eeac9a052671.webp" width="64" height="64" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/units/0x9ce808657ba90c65a2700b1ca5d943ec72834b52.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/units/0x9ce808657ba90c65a2700b1ca5d943ec72834b52.webp" width="64" height="64" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/units/0x1b100de3f13e3f8bb2f66fe58c1949c32e71248b.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/units/0x1b100de3f13e3f8bb2f66fe58c1949c32e71248b.webp" width="64" height="64" /></a>
+</div>
+
 ### taiko
 
 <div>
@@ -228,6 +237,7 @@ Commit and push your changes to your forked repository and create a pull request
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrum/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrum/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8.webp" width="64" height="64" /></a>
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrum/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrum/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.webp" width="64" height="64" /></a>
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrum/0xd9879d9dbdc5042d8f1c2710be293909b985dc90.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrum/0xd9879d9dbdc5042d8f1c2710be293909b985dc90.webp" width="64" height="64" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrum/0xaf88d065e77c8cc2239327c5edb3a432268e5831.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrum/0xaf88d065e77c8cc2239327c5edb3a432268e5831.webp" width="64" height="64" /></a>
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrum/0x82af49447d8a07e3bd95bd0d56f35241523fbab1.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrum/0x82af49447d8a07e3bd95bd0d56f35241523fbab1.webp" width="64" height="64" /></a>
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrum/0x7f90122bf0700f9e7e1f688fe926940e8839f353.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrum/0x7f90122bf0700f9e7e1f688fe926940e8839f353.webp" width="64" height="64" /></a>
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrum/0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrum/0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40.webp" width="64" height="64" /></a>
