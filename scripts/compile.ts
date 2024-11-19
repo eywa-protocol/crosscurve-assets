@@ -25,6 +25,11 @@ const processTokens = async () => {
     const tokenAddress = name.toLowerCase();
     const newImagePath = path.join(dir, `${tokenAddress}.webp`);
 
+    if (imagePath === newImagePath) {
+      console.log(`🟡 skipped: ${tokenAddress}`);
+      continue;
+    }
+
     try {
       const fileBuffer = await fs.readFile(imagePath);
 
@@ -45,7 +50,7 @@ const processTokens = async () => {
   }
 
   console.groupEnd();
-  console.log(`✅ ${completed} tokens processed`);
+  console.log(`✅ ${completed}/${images.length} tokens processed`);
 };
 
 const processChains = async () => {
@@ -60,6 +65,11 @@ const processChains = async () => {
 
     const chain = name.toLowerCase();
     const newChainPath = path.join(dir, `${chain}.webp`);
+
+    if (imagePath === newChainPath) {
+      console.log(`🟡 skipped: ${chain}`);
+      continue;
+    }
 
     try {
       const fileBuffer = await fs.readFile(imagePath);
@@ -81,7 +91,7 @@ const processChains = async () => {
   }
 
   console.groupEnd();
-  console.log(`✅ ${completed} chains processed`);
+  console.log(`✅ ${completed}/${images.length} chains processed`);
 };
 
 const updateReadme = async () => {
@@ -104,8 +114,11 @@ const updateReadme = async () => {
   let preview = "";
 
   Object.entries(imagesMap).forEach(([blockchain, images]) => {
+    const chainImage = `https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/${blockchain}.webp`;
+
     preview += `### ${blockchain}\n\n`;
     preview += `<div>\n`;
+    preview += `<a href="${chainImage}"><img src="${chainImage}" width="80" height="80" /></a>\n`;
     preview += images
       .map(
         (url) =>
