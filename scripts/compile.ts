@@ -7,7 +7,7 @@ import { isAddress } from "ethers";
 const processTokens = async () => {
   console.group(`🔄 Processing tokens...`);
 
-  const images = glob.sync("images/tokens/**/*.{jpg,jpeg,png,webp,svg}");
+  const images = glob.sync("images/tokens/*/*.{jpg,jpeg,png,webp,svg}");
 
   for (const imagePath of images) {
     const { name } = path.parse(imagePath);
@@ -99,7 +99,7 @@ const updateReadme = async () => {
 
   const readme = await fs.readFile("README.md", "utf-8");
 
-  const images = glob.sync("images/tokens/**/*.webp");
+  const images = glob.sync("images/tokens/*/*.webp");
   const imagesMap: Record<string, string[]> = {};
 
   images.forEach((imagePath) => {
