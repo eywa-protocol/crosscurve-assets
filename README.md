@@ -105,6 +105,21 @@ Commit and push your changes to your forked repository and create a pull request
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/optimism/0x0000000000000000000000000000000000000000.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/optimism/0x0000000000000000000000000000000000000000.webp" width="64" height="64" /></a>
 </div>
 
+### mode
+
+<div>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/mode.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/mode.webp" width="80" height="80" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/mode/0x4200000000000000000000000000000000000006.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/mode/0x4200000000000000000000000000000000000006.webp" width="64" height="64" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/mode/0x0000000000000000000000000000000000000000.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/mode/0x0000000000000000000000000000000000000000.webp" width="64" height="64" /></a>
+</div>
+
+### metis
+
+<div>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/metis.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/metis.webp" width="80" height="80" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/metis/0x420000000000000000000000000000000000000a.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/metis/0x420000000000000000000000000000000000000a.webp" width="64" height="64" /></a>
+</div>
+
 ### mantle
 
 <div>
