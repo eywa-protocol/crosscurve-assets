@@ -161,9 +161,11 @@ Commit and push your changes to your forked repository and create a pull request
 
 <div>
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/fraxtal.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/fraxtal.webp" width="80" height="80" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/fraxtal/0xfc00000000000000000000000000000000000006.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/fraxtal/0xfc00000000000000000000000000000000000006.webp" width="64" height="64" /></a>
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/fraxtal/0xfc00000000000000000000000000000000000001.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/fraxtal/0xfc00000000000000000000000000000000000001.webp" width="64" height="64" /></a>
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/fraxtal/0xcaef324bea3ff5c7a08710081294f3344ffadc54.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/fraxtal/0xcaef324bea3ff5c7a08710081294f3344ffadc54.webp" width="64" height="64" /></a>
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/fraxtal/0x4d15ea9c2573addaed814e48c148b5262694646a.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/fraxtal/0x4d15ea9c2573addaed814e48c148b5262694646a.webp" width="64" height="64" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/fraxtal/0x0000000000000000000000000000000000000000.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/fraxtal/0x0000000000000000000000000000000000000000.webp" width="64" height="64" /></a>
 </div>
 
 ### fantom
