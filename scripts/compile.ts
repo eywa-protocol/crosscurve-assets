@@ -33,13 +33,28 @@ const processTokens = async () => {
     try {
       const fileBuffer = await fs.readFile(imagePath);
 
-      await fs.remove(imagePath);
+      const image = sharp(fileBuffer);
+      const metadata = await image.metadata();
+      const { width, height } = metadata;
 
-      await sharp(fileBuffer)
+      if (width && height) {
+        const maxSize = 256;
+        const aspectRatio = width / height;
+
+        if (width > height) {
+          image.resize(maxSize, Math.round(maxSize / aspectRatio));
+        } else {
+          image.resize(Math.round(maxSize * aspectRatio), maxSize);
+        }
+      }
+
+      await image
         .webp({
           lossless: true,
         })
         .toFile(newImagePath);
+
+      await fs.remove(imagePath);
     } catch (err: any) {
       console.error(`🔴 error: ${tokenAddress}`, err);
     }
