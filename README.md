@@ -254,6 +254,22 @@ Commit and push your changes to your forked repository and create a pull request
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/kava/0x919c1c267bc06a7039e03fcc2ef738525769109c.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/kava/0x919c1c267bc06a7039e03fcc2ef738525769109c.webp" width="64" height="64" /></a>
 </div>
 
+### hausttestnet
+
+<div>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/hausttestnet.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/hausttestnet.webp" width="80" height="80" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/hausttestnet/0x6c25c1cb4b8677982791328471be1bfb187687c1.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/hausttestnet/0x6c25c1cb4b8677982791328471be1bfb187687c1.webp" width="64" height="64" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/hausttestnet/0x0000000000000000000000000000000000000000.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/hausttestnet/0x0000000000000000000000000000000000000000.webp" width="64" height="64" /></a>
+</div>
+
+### haustdevnet
+
+<div>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/haustdevnet.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/haustdevnet.webp" width="80" height="80" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/haustdevnet/0x2c990daddaf3b760443b512da9f001f721951438.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/haustdevnet/0x2c990daddaf3b760443b512da9f001f721951438.webp" width="64" height="64" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/haustdevnet/0x0000000000000000000000000000000000000000.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/haustdevnet/0x0000000000000000000000000000000000000000.webp" width="64" height="64" /></a>
+</div>
+
 ### gnosis
 
 <div>
@@ -440,6 +456,13 @@ Commit and push your changes to your forked repository and create a pull request
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/celo/0x48065fbbe25f71c9282ddf5e1cd6d6a887483d5e.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/celo/0x48065fbbe25f71c9282ddf5e1cd6d6a887483d5e.webp" width="64" height="64" /></a>
 </div>
 
+### bsctestnet
+
+<div>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/bsctestnet.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/bsctestnet.webp" width="80" height="80" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/bsctestnet/0x0279cdbc8ec7fd5855ef78ebeb9364805830899a.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/bsctestnet/0x0279cdbc8ec7fd5855ef78ebeb9364805830899a.webp" width="64" height="64" /></a>
+</div>
+
 ### bnb
 
 <div>
@@ -504,6 +527,13 @@ Commit and push your changes to your forked repository and create a pull request
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/avalanche/0x130966628846bfd36ff31a822705796e8cb8c18d.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/avalanche/0x130966628846bfd36ff31a822705796e8cb8c18d.webp" width="64" height="64" /></a>
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/avalanche/0x111111111111ed1d73f860f57b2798b683f2d325.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/avalanche/0x111111111111ed1d73f860f57b2798b683f2d325.webp" width="64" height="64" /></a>
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/avalanche/0x0000000000000000000000000000000000000000.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/avalanche/0x0000000000000000000000000000000000000000.webp" width="64" height="64" /></a>
+</div>
+
+### arbitrumtestnet
+
+<div>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/arbitrumtestnet.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/arbitrumtestnet.webp" width="80" height="80" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrumtestnet/0x35ba8f5793ebd7ac39e30cc28b6d496e43bc36a2.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrumtestnet/0x35ba8f5793ebd7ac39e30cc28b6d496e43bc36a2.webp" width="64" height="64" /></a>
 </div>
 
 ### arbitrum
