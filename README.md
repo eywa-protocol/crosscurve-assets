@@ -538,6 +538,7 @@ Commit and push your changes to your forked repository and create a pull request
 <div>
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/arbitrumtestnet.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/arbitrumtestnet.webp" width="80" height="80" /></a>
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrumtestnet/0x35ba8f5793ebd7ac39e30cc28b6d496e43bc36a2.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrumtestnet/0x35ba8f5793ebd7ac39e30cc28b6d496e43bc36a2.webp" width="64" height="64" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrumtestnet/0x0c4b1e1bbf0a6ac9091ef514ffdaf3c10a21ee56.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/arbitrumtestnet/0x0c4b1e1bbf0a6ac9091ef514ffdaf3c10a21ee56.webp" width="64" height="64" /></a>
 </div>
 
 ### arbitrum
