@@ -464,6 +464,7 @@ Commit and push your changes to your forked repository and create a pull request
 
 <div>
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/bsctestnet.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/bsctestnet.webp" width="80" height="80" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/bsctestnet/0xc1af60e962f0d3ca69e1059ce2b57ee4cb7c6c43.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/bsctestnet/0xc1af60e962f0d3ca69e1059ce2b57ee4cb7c6c43.webp" width="64" height="64" /></a>
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/bsctestnet/0x0279cdbc8ec7fd5855ef78ebeb9364805830899a.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/bsctestnet/0x0279cdbc8ec7fd5855ef78ebeb9364805830899a.webp" width="64" height="64" /></a>
 </div>
 
