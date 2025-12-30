@@ -457,6 +457,14 @@ Commit and push your changes to your forked repository and create a pull request
 <a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/ethereum/0x0000000000000000000000000000000000000000.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/ethereum/0x0000000000000000000000000000000000000000.webp" width="64" height="64" /></a>
 </div>
 
+### crossfi
+
+<div>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/crossfi.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/chains/crossfi.webp" width="80" height="80" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/crossfi/0x8bd5fe9286b039cc38d9b63865a8e87736382ccf.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/crossfi/0x8bd5fe9286b039cc38d9b63865a8e87736382ccf.webp" width="64" height="64" /></a>
+<a href="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/crossfi/0x0000000000000000000000000000000000000000.webp"><img src="https://cdn.jsdelivr.net/gh/eywa-protocol/crosscurve-assets/images/tokens/crossfi/0x0000000000000000000000000000000000000000.webp" width="64" height="64" /></a>
+</div>
+
 ### celo
 
 <div>
